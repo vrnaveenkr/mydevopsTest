@@ -40,13 +40,13 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
-        <name>release softx</name>
+        <id>deployment</id>
+        <name>Internal Releases1</name>
         <url>http://104.42.213.24:8081/nexus/content/repositories/sed/</url>
     </repository>
     <snapshotRepository>
-        <id>sym</id>
-        <name>snapshot softx</name>
+        <id>deployment</id>
+        <name>Internal Releases</name>
         <url>http://104.42.213.24:8081/nexus/content/repositories/sedsnap/</url>
     </snapshotRepository>
 </distributionManagement>
